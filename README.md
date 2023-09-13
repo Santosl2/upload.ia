@@ -4,7 +4,11 @@
 
 </p>
 
-![image](https://github.com/Santosl2/upload.ia/assets/67132916/bc89c85d-83be-43e1-8a1d-a85896dda703)
+# Upload.ia
+
+## 🖼️ Preview 
+
+![UploadIA Screenshot](https://github.com/Santosl2/upload.ia/assets/67132916/45f508e1-4c2d-48a5-9cf5-311185cc8424)
 
 
 ## 💻 Projeto
